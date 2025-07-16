@@ -1,6 +1,6 @@
-# AngularGecko
+# Angular Starter
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.14.
+This project serves as a starter template for Angular applications, generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.14 and uses Tailwind V4 for styling.
 
 ## Development server
 
@@ -57,3 +57,11 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Contributing
+
+If you find this starter project useful and have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is open-sourced under the MIT License.
